@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Projects
+- Blokus: Built a strategic blocky board game in Python as part of a 4 member team. Implemented GUI with Pygame and created a game mode against a bot with varying skill levels. 
+- Shell: Built an interactive shell in C with such capabilities as running local executables, allowing for multiple commands, output redirection, batch mode, and file system navigation.
+- Malloc: Built a custom malloc library in C, complete with heap initialization, memory allocation, and free functions.**
