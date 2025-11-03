@@ -8,13 +8,8 @@ I believe that in the age of Artifical Intelligence, much of Software Engineerin
 
 I have an ambition to enter the world of cybersecurity. I wish to exploit my tendency and desire to understand new technologies to their most minute details (I created a web browser from scratch in Python this summer: HTML, CCS, JS, cookies, and data security), and transform this strength into usefulness by making technologies on which society relies stronger and more trustworthy. I frequently consult cybsersecurity news and love networking with security professionals.
 
-<img src="https://img.shields.io/badge/Personal%20Portfolio-%2312100E.svg?&style=for-the-badge&logo=about.me&logoColor=white" />
-<img src="https://img.shields.io/badge/Personal%20Portfolio-%23FF6F61.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Personal%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=briefcase&logoColor=white" />
-
-
 ## 🌐 Socials:
-[Personal Portfolio](https://cat-stool-8cb.notion.site/Julien-Bessin-Project-Portfolio-290b875f5aa180f3a843eded7099e9b0)
+[<img src="https://img.shields.io/badge/Personal%20Portfolio-%2312100E.svg?&style=for-the-badge&logo=about.me&logoColor=white"/>](https://cat-stool-8cb.notion.site/Julien-Bessin-Project-Portfolio-290b875f5aa180f3a843eded7099e9b0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julien-bessin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmgbessin@gmail.com) 
 
 ## 💻 Tech Stack:
