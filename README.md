@@ -8,17 +8,10 @@ I believe that in the age of Artifical Intelligence, much of Software Engineerin
 
 I have an ambition to enter the world of cybersecurity. I wish to exploit my tendency and desire to understand new technologies to their most minute details (I created a web browser from scratch in Python this summer: HTML, CCS, JS, cookies, and data security), and transform this strength into usefulness by making technologies on which society relies stronger and more trustworthy. I frequently consult cybsersecurity news and love networking with security professionals.
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+ChatGPT;AI+Developer+%26+Problem+Solver;Open-Source+Contributor" alt="Typing SVG" />
-</h1>
+<img src="https://img.shields.io/badge/Personal%20Portfolio-%2312100E.svg?&style=for-the-badge&logo=about.me&logoColor=white" />
+<img src="https://img.shields.io/badge/Personal%20Portfolio-%23FF6F61.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Personal%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=briefcase&logoColor=white" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%2300A8E8.svg?&style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23323330.svg?&style=for-the-badge&logo=Python&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Open%20Source-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
-</p>
-
-<h3 align="center">🚀 Building ideas that learn, think, and evolve.</h3>
 
 ## 🌐 Socials:
 [Personal Portfolio](https://cat-stool-8cb.notion.site/Julien-Bessin-Project-Portfolio-290b875f5aa180f3a843eded7099e9b0)
