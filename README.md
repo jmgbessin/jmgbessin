@@ -1,11 +1,15 @@
-# Nice to meet you 👋:
+# About Me:
 Hi! My name is Julien Bessin. 
 I am currently studying Mathematics and Computer Science as a junior at UChicago!<br>
 
-I am a very rigorous learner. I conduct myself in computer science as I do in math, attempting to develop a full understanding of all concepts I discover, not satisfied with surface knowledge, but rather excited for real comprehension. I believe that this starts by acknowledging one's own ignorance and asking lots of questions! Asking questions is not embarrassing, it is a great strength.<br><br>I started out creating Python math algorithms in high school such as a multivariable system solution solver with Gaussian elimination and a rational polynomial root finder. In College, I love taking classes on Operating Systems, Computer Architecture, and reading books on hardware. This summer, I built a Web Browser from scratch as part of UChicago's Summer Tech Showcase.<br><br>I believe that in the age of Artifical Intelligence, much of Software Engineering will be automated, and there will be higher value in understanding the systems on which tools like Angular, React, or Django run, than being very good at using them. I joined AI @ UChicago in 2025, fascinated by the inner workings of Machine Learning, and I am currently working on a neural network to recognize hand-written digits with Pytorch as well as a neural network from scratch in Numpy.<br><br>Big projects for the future: to build a computer with an architecture, compiler, and OS with https://www.nand2tetris.org/ or to build my own programming language with https://craftinginterpreters.com/!
+I am patient, assertive, perseverant, and a very rigorous learner. My interests span networks, browsers, machine learning, OS, computer architecture, and cybersecurity.<br>
 
+I believe that in the age of Artifical Intelligence, much of Software Engineering will be automated, so there will be higher value in understanding the systems on which tools like Angular, React, or Django run, than being very good at using them. I am a member of AI@UChicago, learning about and developing elements of neural networks, CNNs, and transformers.<br>
+
+I have an ambition to enter the world of cybersecurity. I wish to exploit my tendency and desire to understand new technologies to their most minute details (I created a web browser from scratch in Python this summer: HTML, CCS, JS, cookies, and data security), and transform this strength into usefulness by making technologies on which society relies stronger and more trustworthy. I frequently consult cybsersecurity news and love networking with security professionals.
 
 ## 🌐 Socials:
+[Personal Portfolio](https://cat-stool-8cb.notion.site/Julien-Bessin-Project-Portfolio-290b875f5aa180f3a843eded7099e9b0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julien-bessin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmgbessin@gmail.com) 
 
 ## 💻 Tech Stack:
